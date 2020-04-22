@@ -1,0 +1,9 @@
+body {
+    display: flex;
+    flex-direction: row;
+}
+div {
+    border: solid 1px red;
+    margin-right: 1em;
+    padding: 1em;
+}
